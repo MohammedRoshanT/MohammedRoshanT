@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohammedRoshanT
 - 👀 I’m a static web developer
 - 🌱 I’m currently researching features to add to my website
-- 📫 You can reach me by <a href = "mailto:mohammedroshanofficial@gmail.com">Mail</a>
+- 📫 You can reach me by <a href = "mailto:mohammedroshan8289@gmail.com">Mail</a>
 
 Here is my website - <a href = "https://orablackdevelopers.netlify.app">click to visit</a>
 
