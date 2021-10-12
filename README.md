@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohammedRoshanT
 - 👀 I’m a static web developer
-- 🌱 I’m currently researching features to add to my website
+- 🌱 I’m currently researching features to add to my website & Making Whatsapp bot
 - 📫 You can reach me by <a href = "mailto:mohammedroshan8289@gmail.com">Mail</a>
 
 Here is my website - <a href = "https://orablackdevelopers.netlify.app">click to visit</a>
