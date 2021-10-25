@@ -3,9 +3,9 @@
 - 🌱 I’m currently researching features to add to my website & Making Whatsapp bot
 - 📫 You can reach me by <a href = "mailto:mohammedroshan8289@gmail.com">Mail</a>
 
-Here is my website - <a href = "https://orablackdevelopers.netlify.app">click to visit(Oraganisation web)</a>
+Here is my website - <a href = "https://orablackdevelopers.netlify.app">click to visit(Organisation web)</a>
 
-And Here is my oraganisation - <a href = "https://github.com/ORABLACK-DEVELOPERS">Click to view</a>
+And Here is my organisation - <a href = "https://github.com/ORABLACK-DEVELOPERS">Click to view</a>
 
 Feel Free to contribute to my repos in my <a href = "https://github.com/ORABLACK-DEVELOPERS">organisation</a>
 
