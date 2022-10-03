@@ -1,7 +1,7 @@
 # Hello, There ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### 👋I’m Mohammed Roshan T
 - 👀 I’m a static web developer and JS Lover
-- 🌱 I’m currently researching features to add to my website & Making Whatsapp bot
+- 🌱 I’m currently researching features to add to my website 
 - 📫 You can reach me by <a href = "mailto:theneondev@gmail.com">Mail</a>
 - ➰ Iam looking for contributers to contribute with me to make the world better and better!
 
