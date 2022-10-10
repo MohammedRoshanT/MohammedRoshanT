@@ -18,6 +18,7 @@ Discord -<a href = "https://discord.gg/x6kNjzrdeN">Click to join!!</a>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammedRoshanT&show_icons=true&theme=nightowl" alt="TOXIC-DEVIL" /></p>
 
 Now Working: Hacktoberfest 2022!
+[![@mrneondev's Holopin board](https://holopin.io/api/user/board?user=mrneondev)](https://holopin.io/@mrneondev)
 
 
 <details>
