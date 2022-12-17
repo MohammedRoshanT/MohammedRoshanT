@@ -7,7 +7,7 @@
 
 <a href="https://github.com/MohammedRoshanT/Donate"> Donate Me !</a> 
 
-Here is my website - <a href = "https://theneondev.netlify.app">click to visit</a>
+Here is my website - <a href = "https://theneon.vercel.app">click to visit</a>
 
 Discord -<a href = "https://discord.gg/x6kNjzrdeN">Click to join!!</a>
 
