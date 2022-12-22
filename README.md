@@ -8,8 +8,8 @@
 <a href="https://github.com/MohammedRoshanT/Donate"> Donate Me !</a> 
 
 Here is my website - <a href = "https://theneon.vercel.app">click to visit</a>
-
-<a href="https://www.buymeacoffee.com/mr.roshan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+### Donate !
+<a href="https://www.buymeacoffee.com/mr.roshan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Donate Me!" data-text="Donate Me !" style="height: 60px !important;width: 217px !important;" ></a>
 
 Discord -<a href = "https://discord.gg/x6kNjzrdeN">Click to join!!</a>
 
