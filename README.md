@@ -5,7 +5,6 @@
 - 📫 You can reach me by <a href = "mailto:theneondev@gmail.com">Mail</a>
 - ➰ Iam looking for contributers to contribute with me to make the world better and better!
 
-<a href="https://github.com/MohammedRoshanT/Donate"> Donate Me !</a> 
 
 Here is my website - <a href = "https://theneon.vercel.app">click to visit</a>
 ### Donate !
