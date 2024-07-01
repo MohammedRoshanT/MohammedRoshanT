@@ -2,7 +2,7 @@
 ### 👋I’m Mohammed Roshan T
 - 👀 I’m a static web developer and JS Lover
 - 🌱 I’m currently researching features to add to my website 
-- 📫 You can reach me by <a href = "mailto:theneondev@gmail.com">Mail</a>
+- 📫 You can reach me by <a href = "mailto:mr.roxhan@gmail.com">Mail</a>
 - ➰ Iam looking for contributers to contribute with me to make the world better and better!
 
 
