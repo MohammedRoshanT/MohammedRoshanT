@@ -1,52 +1,78 @@
-# 👋 Hey there, I'm Mohammed Roshan T  
+<!-- Profile Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Mohammed%20Roshan%20T&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-🌐 [Visit my website](https://mrroshan.in)  
+# 👋 Hello, I'm Mohammed Roshan T  
+
+🎓 B.Tech CSE Student | 🔒 Cybersecurity Enthusiast | ☁️ Cloud & Open Source Explorer  
 
 ---
 
-## 🚀 About Me  
-🎓 B.Tech Computer Science & Engineering student  
-🔒 Passionate about **Cybersecurity, Networking, and Software Development**  
-💡 Exploring **AI, Web Development, and Open Source**  
-🌱 Currently learning **Flask, Linux, and Cloud**  
+## 🧑‍💻 About Me  
+- 🚀 Exploring **Cybersecurity, Networking, Web Dev, and AI**  
+- 🌱 Currently learning **Flask, Linux, and Cloud Tech**  
+- 💡 Interested in **3D Printing, Hackathons, and Pen Testing**  
+- 🎯 Goal: Build impactful **tech solutions** and grow in **Open Source**  
 
 ---
 
 ## 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
+
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+
+**Tools & Platforms**  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ---
 
-## 📊 GitHub Stats  
-![Roshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedRoshanT&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedRoshanT&layout=compact&theme=tokyonight)  
+## 📊 GitHub Analytics  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MohammedRoshanT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedRoshanT&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedRoshanT&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
-## 🏆 Achievements  
-- 🏅 Hacktoberfest Contributor (multiple years)  
-- 👨‍💻 Developer Program Member on GitHub  
-- 🚀 Built projects in **Flask, Arduino, and Cybersecurity**  
+## 🏆 GitHub Achievements & Trophies  
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MohammedRoshanT&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 📈 Contribution Graph  
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedRoshanT&theme=react-dark&bg_color=0d1117&hide_border=true" />
+</p>
 
 ---
 
 ## 🌍 Connect with Me  
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat&logo=google-chrome)](https://mrroshan.in)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/)   
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/MohammedRoshanT)  
+
+[![Website](https://img.shields.io/badge/Website-Visit-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mrroshan.in)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/mohammed-roshan-t)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedRoshanT)  
 
 ---
 
-⭐️ From [MohammedRoshanT](https://github.com/MohammedRoshanT)
 
- 
+
 <!---
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammedRoshanT&show_icons=true&theme=nightowl" alt="TOXIC-DEVIL" /></p>
@@ -54,7 +80,8 @@
 -->
 [![@mrneondev's Holopin board](https://holopin.io/api/user/board?user=mrneondev)](https://holopin.io/@mrneondev)
 
-
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" />
 </details>
 <!---
 MohammedRoshanT/MohammedRoshanT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
